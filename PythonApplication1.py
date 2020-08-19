@@ -5,7 +5,7 @@
 3.Count the number of trails. 
 4.Restart the game. 
 '''
-import random  #To generata a random number
+import random  #To generate a random number
 ask = 'y' 
 while (ask=='y'):
     play_game = input('Press y to play and n to exit: ')
